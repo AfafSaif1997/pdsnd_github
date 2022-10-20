@@ -2,6 +2,10 @@
 
 ### Date created
 20 Oct 2022
+
+### Author 
+Afaf Saif
+
 ### Project Title
 Explore US Bikeshare Data
 
@@ -15,3 +19,5 @@ Bikeshare.txt chicago.csv new_york_city.csv washington.csv
 Main input was given by Udacity. 
 
 Pandas documentation availabe at: https://pandas.pydata.org/pandas-docs/stable/
+
+Site references: https://stackoverflow.com/questions/36010999/convert-pandas-datetime-month-to-string-representation https://stackoverflow.com/questions/15138973/how-to-get-the-number-of-the-most-frequent-value-in-a-column/30063996 https://stackoverflow.com/questions/42977395/pandas-dt-hour-formatting https://stackoverflow.com/questions/4048651/python-function-to-convert-seconds-into-minutes-hours-and-days/38222840 https://stackoverflow.com/questions/35614496/how-to-remove-the-0-in-a-integter-in-python

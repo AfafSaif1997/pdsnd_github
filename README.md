@@ -12,5 +12,6 @@ Bikeshare.txt chicago.csv new_york_city.csv washington.csv
 
 
 ### Credits
-Main input was given by Udacity. No Repos consulted for this project.
+Main input was given by Udacity. 
 
+Pandas documentation availabe at: https://pandas.pydata.org/pandas-docs/stable/
